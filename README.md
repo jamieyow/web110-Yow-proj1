@@ -1,1 +1,1 @@
-# web110-lastname-proj1
+This is all the files for M7 Project 1 including HTML File (index) CSS (styles) and the images for this project, the code includes the flex box style to make it responsive to the size of the screen of any device and also for the different sizes that a computer can use in the navigation window also include all the styles on the css files so the html wont show up plain and whit out design, finally learning from previews feedback I was specially careful with the files name to be sure the html be able to read it correctly   
